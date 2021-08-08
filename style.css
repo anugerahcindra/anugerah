@@ -1,0 +1,9 @@
+.navbar-nav:hover{
+    background-color: skyblue;
+    color: black;
+}
+
+#navbarSupportedContent a:hover{
+    background-color: green;
+    color: red;
+}
